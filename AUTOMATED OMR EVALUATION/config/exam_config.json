@@ -1,0 +1,64 @@
+{
+  "exam_info": {
+    "name": "Innomatics Research Labs Assessment",
+    "date": "2024-01-15",
+    "total_questions": 100,
+    "subjects": {
+      "Mathematics": {
+        "questions": "1-20",
+        "max_score": 20
+      },
+      "Physics": {
+        "questions": "21-40",
+        "max_score": 20
+      },
+      "Chemistry": {
+        "questions": "41-60",
+        "max_score": 20
+      },
+      "Biology": {
+        "questions": "61-80",
+        "max_score": 20
+      },
+      "General Knowledge": {
+        "questions": "81-100",
+        "max_score": 20
+      }
+    },
+    "sheet_versions": ["A", "B", "C", "D"],
+    "marking_scheme": {
+      "correct_answer": 1,
+      "wrong_answer": 0,
+      "unattempted": 0
+    }
+  },
+  "processing_config": {
+    "bubble_detection": {
+      "min_radius": 8,
+      "max_radius": 25,
+      "threshold": 0.6,
+      "grid_tolerance": 10
+    },
+    "image_processing": {
+      "resize_width": 800,
+      "gaussian_blur_kernel": 5,
+      "adaptive_threshold_block_size": 11,
+      "adaptive_threshold_c": 2,
+      "skew_correction_enabled": true,
+      "perspective_correction_enabled": true
+    },
+    "quality_checks": {
+      "min_image_width": 400,
+      "min_image_height": 600,
+      "max_skew_angle": 45,
+      "min_bubble_fill_ratio": 0.3,
+      "max_bubble_fill_ratio": 0.9
+    }
+  },
+  "output_config": {
+    "generate_overlay": true,
+    "save_processed_image": true,
+    "export_formats": ["json", "csv", "excel"],
+    "include_audit_trail": true
+  }
+}

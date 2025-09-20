@@ -1,0 +1,21 @@
+student_id,name,email,phone,batch
+IRL001,Aarav Sharma,aarav.sharma@email.com,9876543210,Batch-2024-A
+IRL002,Priya Patel,priya.patel@email.com,9876543211,Batch-2024-A
+IRL003,Rohit Kumar,rohit.kumar@email.com,9876543212,Batch-2024-A
+IRL004,Sneha Reddy,sneha.reddy@email.com,9876543213,Batch-2024-A
+IRL005,Arjun Singh,arjun.singh@email.com,9876543214,Batch-2024-A
+IRL006,Kavya Nair,kavya.nair@email.com,9876543215,Batch-2024-B
+IRL007,Vikram Gupta,vikram.gupta@email.com,9876543216,Batch-2024-B
+IRL008,Ananya Das,ananya.das@email.com,9876543217,Batch-2024-B
+IRL009,Karthik Raj,karthik.raj@email.com,9876543218,Batch-2024-B
+IRL010,Meera Joshi,meera.joshi@email.com,9876543219,Batch-2024-B
+IRL011,Siddharth Agarwal,siddharth.agarwal@email.com,9876543220,Batch-2024-C
+IRL012,Riya Verma,riya.verma@email.com,9876543221,Batch-2024-C
+IRL013,Aditya Mishra,aditya.mishra@email.com,9876543222,Batch-2024-C
+IRL014,Pooja Iyer,pooja.iyer@email.com,9876543223,Batch-2024-C
+IRL015,Rahul Bansal,rahul.bansal@email.com,9876543224,Batch-2024-C
+IRL016,Divya Pillai,divya.pillai@email.com,9876543225,Batch-2024-D
+IRL017,Nikhil Saxena,nikhil.saxena@email.com,9876543226,Batch-2024-D
+IRL018,Shreya Kapoor,shreya.kapoor@email.com,9876543227,Batch-2024-D
+IRL019,Varun Malhotra,varun.malhotra@email.com,9876543228,Batch-2024-D
+IRL020,Ishita Bhatt,ishita.bhatt@email.com,9876543229,Batch-2024-D
